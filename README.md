@@ -94,10 +94,10 @@ This project introduces an **8-dimensional evaluation framework** that analyzes 
 
 ## 👨‍💻 Team Members
 
-* Abhishek
+* Badshah Khan
 * Shashank Sendil
 * Rakshit Bhutani
-* Badshah Khan
+* Abhishek
 
 ---
 
